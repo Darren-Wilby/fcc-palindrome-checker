@@ -3,6 +3,6 @@ As I work my way through a number of freeCodeCamp courses I will be pushing them
 
 ## fcc-palindrome-checker
 - The goal: To create a working, interactive palindrome checker webpage.
-- Difficulties faced: 
-- What I learned:
-- How I plan to improve:
+- Difficulties faced: None, honestly.
+- What I learned: Refreshed knowledge on using regex inside of filter. Took a moment to realise I could use .test method
+- How I plan to improve: Create webpage with styling and prompt users
