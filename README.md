@@ -3,5 +3,6 @@ As I work my way through a number of freeCodeCamp courses I will be pushing them
 
 ## fcc-palindrome-checker
 - The goal: To create a working, interactive palindrome checker webpage.
+- Difficulties faced: 
 - What I learned:
 - How I plan to improve:
